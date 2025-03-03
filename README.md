@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Venkata Sai Surya Rao Beeraka, a passionate Computer Science graduate student at UIC with a strong background in software development, data science, and artificial intelligence.<br>📄 Know about my experiences at [My Resume]<br>🔭 Currently working on AI and SonarCube projects.<br>🌱 Currently learning AWS, and System Design.<br>📫 Reach me at saisurya.beeraka@gmailmail.com
+I’m Venkata Sai Surya Rao Beeraka, a passionate Computer Science graduate student at UIC with a strong background in software development, data science, and artificial intelligence.<br>📄 Know about my experiences at [My Resume](SuryaBeeraka_Resume.pdf)<br>🔭 Currently working on AI and SonarCube projects.<br>🌱 Currently learning AWS, and System Design.<br>📫 Reach me at saisurya.beeraka@gmailmail.com
 
 
 ## 🌐 Socials:
